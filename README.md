@@ -1,6 +1,7 @@
 # CipherPasswordManager
 CIPHER is a modern authentication platform designed with simplicity and security in mind. 
 Our clean, professional interface ensures that your login experience is both beautiful and functional.
+
 **Frontend**
 - [Vite](https://vitejs.dev/) – Lightning-fast frontend build tool
 - [TypeScript](https://www.typescriptlang.org/) – Static type checking for JavaScript
