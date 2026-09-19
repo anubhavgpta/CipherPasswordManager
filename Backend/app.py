@@ -279,4 +279,4 @@ def forgot_password():
         return jsonify({'error': 'Failed to reset password'}), 500
     
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
